@@ -1,4 +1,4 @@
-# 🤖 smartlab-360
+# 🤖 Smartlab-360
 An IoT-Based Robotics Laboratory Facility Management System
 ## 📌 About the Project
 
